@@ -1,0 +1,7 @@
+{
+  "name": "OCR_App_Gh0st",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
